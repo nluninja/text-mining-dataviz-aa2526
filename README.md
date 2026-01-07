@@ -7,6 +7,16 @@ Academic Year 2025-2026
 
 This repository contains notebooks and materials for the Data Visualization and Text Mining course. Notebooks will be published the day before each lesson.
 
+## Course Contents
+
+### 01 - NLP In Practice
+Introduction to Natural Language Processing using spaCy and NLTK.
+- Tokenization, Stemming, Lemmatization
+- Stop Words
+- Part of Speech (POS) Tagging
+- Named Entity Recognition (NER)
+- Visualization with displacy
+
 ## Getting Started
 
 ### Clone the Repository
