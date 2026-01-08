@@ -16,6 +16,14 @@ Introduction to Natural Language Processing using spaCy and NLTK.
 - Part of Speech (POS) Tagging
 - Named Entity Recognition (NER)
 - Visualization with displacy
+- EDA on Text Data with matplotlib and seaborn
+
+### 02 - Text Classification
+Apply Machine Learning to text data sources.
+- Scikit-Learn basics
+- N-grams
+- Bag-of-Words, CountVectorizer, TfidfVectorizer
+- Text Classification project
 
 ## Getting Started
 
