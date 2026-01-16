@@ -106,6 +106,13 @@ git checkout -- .
 git pull origin main
 ```
 
+## Tools
+
+The [tools/](tools/) folder contains helpful resources and tutorials:
+
+- [Git-Quick-Tutorial.md](tools/Git-Quick-Tutorial.md) - A quick reference guide for Git commands and workflows
+- [Git-Exercises.md](tools/Git-Exercises.md) - Practice exercises to reinforce Git skills
+
 ## Contact
 
 For questions about the course materials, please contact the instructor:
