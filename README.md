@@ -25,6 +25,18 @@ Apply Machine Learning to text data sources.
 - Bag-of-Words, CountVectorizer, TfidfVectorizer
 - Text Classification project
 
+### 03 - Neural Networks
+Introduction to Deep Learning for NLP.
+- Simple Classifier with Keras
+- PyTorch basics
+- Building Neural Network classifiers
+
+### 04 - Embeddings
+Word vectors and text representation.
+- Feature Engineering for Text Data
+- Word2Vec (CBOW and Skip-gram)
+- GloVe embeddings
+
 ## Getting Started
 
 ### Clone the Repository
