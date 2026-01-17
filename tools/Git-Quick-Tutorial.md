@@ -83,7 +83,7 @@ git commit -am "Description of changes"
 # COMMIT - Visual Workflow
 
 ```
-Working Directory    Staging Area    Repository
+Working Directory    Staging Area   Local Repository
       |                   |              |
       |   git add         |              |
       |------------------>|              |
